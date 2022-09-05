@@ -148,12 +148,7 @@ const TablaPersonajes = () => {
         columns={columnas}
         scroll={{ y: 650 }}
         dataSource={personajes}
-        pagination={{
-          position: ['topCenter'],
-          defaultPageSize: 10,
-          pageSizeOptions: ['10', '20', '40', '60', '100'],
-          showSizeChanger: true,
-        }}
+        pagination
         bordered
         rowKey={'id'}
         loading={false}
