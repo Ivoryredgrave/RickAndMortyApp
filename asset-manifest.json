@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/RickAndMortyApp/static/css/main.53dc0a64.css",
-    "main.js": "/RickAndMortyApp/static/js/main.d0191e52.js",
+    "main.js": "/RickAndMortyApp/static/js/main.eb80a9a2.js",
     "index.html": "/RickAndMortyApp/index.html"
   },
   "entrypoints": [
     "static/css/main.53dc0a64.css",
-    "static/js/main.d0191e52.js"
+    "static/js/main.eb80a9a2.js"
   ]
 }
